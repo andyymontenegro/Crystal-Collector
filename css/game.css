@@ -2,3 +2,7 @@
 	background-color: black;
 	color: white;
 }
+.panel-body {
+	border-style: solid;
+	border-width: 1px;
+}
